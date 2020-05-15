@@ -8,7 +8,7 @@
 
 - Master's degree of **:one: Computer Science and Engineering :two: Computer Vision @ DGIST** (2014~2020)
 
-### Experiences :fireworks:
+### Experiences :mega:
 
 - **SSAFY (Samsung Software Academy for Youth) 4th (2020~2021)**  
   Study Web, Algorithm / Do 3 different projects
@@ -20,9 +20,7 @@
   - 한국 연구재단 지원
   - 참여 연구소 : 고려대학교, KAIST, POSTECH, DGIST
   - 
-- **[Rowing Posture Correction Android App](https://github.com/daebalprime/UNI19FF_CSE465_FinalProject) (2018)**  
-  Novice rowers often struggle to keep body in right angle at end of drive and recovery. Attach a phone on the chest to collect angle of upper body. Alert rowers by ringing sound when rowers recline his/her body too much.  Implemented collecting sensor data via Android API, basic compliment sensor.  
-  *This project conducted under the Mobile Computing course @ UNIST.*
+- 
 
 ### Skills :star:
 
@@ -33,17 +31,6 @@
 - Matlab (Data Preprocessing) - Intermediate
 - HTML, CSS, JS (Web) - Beginner  
 
-<!--
-**seoyounji/seoyounji** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Fun fact :smirk:
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- ️
