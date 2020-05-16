@@ -2,11 +2,12 @@
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fseoyounji&count_bg=%23FFBA37&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
-
+​                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  
 
 ### Education 🎓
 
-- Master's degree of **:one: Computer Science and Engineering :two: Computer Vision @ DGIST** (2014~2020)
+- Bachelor's degree of **Computer Science and Engineering ​​@ DGIST** (2014~2018)
+- Master's degree of **Computer Vision @ DGIST VC lab** (2018~2020)
 
 ### Experiences :mega:
 
