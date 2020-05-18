@@ -25,8 +25,9 @@
 
 ### Skills :star:
 
-- Tensorflow 1,2 (Classification / Object Detection) - Intermediate
-- C++ (OpenCV / OpenGL) - Intermediate
+- Tensorflow 1 (Classification / Object Detection) - Intermediate
+- Tensorflow 2 (YOLO) - Beginner
+- C++ (OpenCV / OpenGL / 3d Reconstruction) - Intermediate
 - Python (Graph Import) - Intermediate
 - Java (Algorithm Problem Solving / SpringBoot) - Intermediate
 - Matlab (Data Preprocessing) - Intermediate
