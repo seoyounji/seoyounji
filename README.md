@@ -6,7 +6,8 @@
 
 ### Education 🎓
 
-- Bachelor's degree of **Computer Science and Engineering ​​@ DGIST** (2014~2018)
+- Gimpo Foreign Language High School (2011~2014)
+- Bachelor's degree of **Computer Science and Engineering @ DGIST** (2014~2018)
 - Master's degree of **Computer Vision @ DGIST VC lab** (2018~2020)
 
 ### Experiences :mega:
