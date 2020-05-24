@@ -1,8 +1,10 @@
+![header](https://capsule-render.vercel.app/api?type=wave&color=ffb6c1&height=200&section=header&fontSize=90)
+
 ### Hi there 👋
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fseoyounji&count_bg=%23FFBA37&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
-멋진 머신러닝 개발자가 되고 싶은 주니어 개발자입니다!
+**멋진 머신러닝 개발자가 되고 싶은 주니어 개발자입니다!**
 
  🇰🇷 Republic of Korea  
 🎂 Feb. 1996                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   
@@ -30,16 +32,24 @@
 
 - **교육 봉사 (수학, 과학, 영어) @DGIST 동아리** (2015~2016)
 
-
 ### Projects :rainbow:
 
+- **시각 장애인을 위한 장보기 앱 See장** (2021)
+  - SSAFY 공통 프로젝트 1등 / UCC 3등
+  - *Object Detection*을 이용해 찾고자 하는 상품명을 말하면 상품이 사용자 위치를 중심으로 어디에 위치해 있는지 알려줌.
+  - *Image Classification*을 이용해 손에 들고 있는 상품을 판별해 음성 출력으로 알려줌.
 - **초실감 원격가상 인터랙션을 위한 사용자 복원 기술 개발 프로젝트** (2018~2020)
   - 한국 연구재단 지원
   - 참여 연구소 : 고려대학교, KAIST, POSTECH, DGIST
   - 카메라를 이용해 사용자의 모습을 촬영한 것을 3차원 컴퓨터 상에서 실시간으로 렌더링해 궁극적으로 서로 다른 장소에 있는 다수의 사람들이 렌더링된 서로를 만날 수 있게끔 하는 프로젝트. 그 중 DGIST 연구 책임자로써 얼굴 표정 중 눈 부분을 집중적으로 모델링하는 업무를 맡음.
-  - 3d Reconstruction 방식 중 Blendshape 방식을 이용해 진행하였으며 이 과정에서 눈 표정에 특화된 parameter를 자체적으로 만들고 성공적으로 학습시켜 실시간 3d Reconstruction이 가능하게 했으며 이를 바탕으로 논문 또한 제출함.
+  - *3d Reconstruction* 방식 중 *Blendshape* 방식을 이용해 진행하였으며 이 과정에서 눈 표정에 특화된 *parameter*를 자체적으로 만들고 성공적으로 학습시켜 실시간 *3d Reconstruction*이 가능하게 했으며 이를 바탕으로 논문 또한 제출함.
   - 대외비 프로젝트로 전체 코드는 공개 불가.
+- **길건너 친구들** (2018)
+  - C++에서 *vertex shader* 와 *fragment shader* 를 사용해 길건너 친구들 게임을 각각 2d 와 3d 로 구현.
 - **그래프 형태의 빅데이터 분석을 위한 알고리즘 연구 및 GPU 프로그래밍** (2016)
+  - UGRP 프로젝트 1등
+  - *Develop & Optimize Triangle Counting algorithm*
+- **사다리 타기** (2015)
   - Develop & Optimize Triangle Counting algorithm
 
 ### Skills :star:
@@ -62,3 +72,5 @@
 
 ![ Anurag의 github 통계 ](https://github-readme-stats.vercel.app/api?username=seoyounji&hide=prs&show_icons=true&hide_border=true&title_color=000)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seoyounji&layout=compact&hide_border=true)
+
+![footer](https://capsule-render.vercel.app/api?type=wave&color=83dcb7&height=200&section=footer&fontSize=90)
