@@ -68,6 +68,7 @@
   - <mark style="background-color: #FFEBA0">정보통신융합 전공 내 UGRP 프로젝트 1등</mark>
   - GPU상에서 아직 구현되지 않은 *algorithm* 을 구현하고 좀 더 효율적으로 만들 수 있는 방법에 대해 연구한 프로젝트. *Betweenness Centrality, Clustering Coefficient, Minimum Spanning Tree and Triangle  Counting* 의 4개 *algorithm* 에 대해 연구를 진행했고 이 중 일부 알고리즘들은 *parallel  computation* 에 특화된 GPU 기반으로 코드를 구현함. 
   - <mark style="background-color: #CCEEDD">맡은 역할 : *Develop & Optimize Triangle Counting algorithm*</mark>
+  - UGRP 프로그램 종료 후 본인이 구현한 코드와 알고리즘을 바탕으로 과제를 제안한 연구실의 석박사 과정 대학원생들이 연구를 진행함.
 
 - **숫자 야구 게임** (2015)
 
