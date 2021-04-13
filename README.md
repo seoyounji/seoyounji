@@ -11,18 +11,15 @@
 ### Experiences :fireworks:
 
 - **SSAFY (Samsung Software Academy for Youth) 4th (2020~2021)**  
-  Studying Java, Spring, Algorithm, etc.
+  Study Web, Algorithm / Do 3 different projects
 
 
 ### Projects :rainbow:
 
-- **Football️ chants in COVID-19 Era (in progress)**  
-  Based on Django and basic sound dubbing by using pydub.
-- **OS Level Supports for Deferred Free to Prevent Use-After-Free (2020)**  
-  Write hook library and a part of Linux Kernel Module , analyze standard C library memory allocator and benchmark our mitigation's performance by CPU2017.  
-   *Under the guidance of advisor [**Prof.Moon**](https://hyungon.unist.ac.kr/) @ UNICSS.*
-- **Cucumber Haters (오이척살단, 2019)**  
-  A web project displays instant foods containing cucumber based on Django. Submitted to UNIST Hackathon.
+- **초실감 원격가상 인터랙션을 위한 사용자 복원 기술 개발 프로젝트 (2018~2020)**  
+  - 한국 연구재단 지원
+  - 참여 연구소 : 고려대학교, KAIST, POSTECH, DGIST
+  - 
 - **[Rowing Posture Correction Android App](https://github.com/daebalprime/UNI19FF_CSE465_FinalProject) (2018)**  
   Novice rowers often struggle to keep body in right angle at end of drive and recovery. Attach a phone on the chest to collect angle of upper body. Alert rowers by ringing sound when rowers recline his/her body too much.  Implemented collecting sensor data via Android API, basic compliment sensor.  
   *This project conducted under the Mobile Computing course @ UNIST.*
