@@ -12,7 +12,7 @@
 ### Experiences :mega:
 
 - **SSAFY (Samsung Software Academy for Youth) 4th (2020~2021)**  
-  Study Web, Algorithm / Do 3 different projects
+  Study  *Web, Algorithm* / Do  *3 different projects*
 
 
 ### Projects :rainbow:
