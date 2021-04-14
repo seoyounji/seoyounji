@@ -57,3 +57,8 @@
 ### Fun fact :smirk:
 
 - ️
+
+### 내 깃허브 및 언어 정보 👩‍💻 
+
+![ Anurag의 github 통계 ](https://github-readme-stats.vercel.app/api?username=seoyounji&hide=prs&show_icons=true&hide_border=true&title_color=000)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seoyounji&layout=compact&hide_border=true)
