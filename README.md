@@ -38,10 +38,13 @@
   - 참여 연구소 : 고려대학교, KAIST, POSTECH, DGIST
   - 카메라를 이용해 사용자의 모습을 촬영한 것을 3차원 컴퓨터 상에서 실시간으로 렌더링해 궁극적으로 서로 다른 장소에 있는 다수의 사람들이 렌더링된 서로를 만날 수 있게끔 하는 프로젝트. 그 중 DGIST 연구 책임자로써 얼굴 표정 중 눈 부분을 집중적으로 모델링하는 업무를 맡음.
   - 3d Reconstruction 방식 중 Blendshape 방식을 이용해 진행하였으며 이 과정에서 눈 표정에 특화된 parameter를 자체적으로 만들고 성공적으로 학습시켜 실시간 3d Reconstruction이 가능하게 했으며 이를 바탕으로 논문 또한 제출함.
-  - 대외비 프로젝트로서 전체 코드는 공개 불가.
-- 
+  - 대외비 프로젝트로 전체 코드는 공개 불가.
+- **그래프 형태의 빅데이터 분석을 위한 알고리즘 연구 및 GPU 프로그래밍** (2016)
+  - Develop & Optimize Triangle Counting algorithm
 
 ### Skills :star:
+
+<a href=""><img src="https://img.icons8.com/color/48/000000/tensorflow.png"/></a>    <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/>    <img src="https://img.icons8.com/color/48/000000/python.png"/>    <img src="https://img.icons8.com/color/48/000000/spring-logo.png"/>    <img src="https://img.icons8.com/fluent/48/000000/matlab.png"/>    <a href=""><img src="https://img.icons8.com/color/40/000000/git.png"/></a>   <img src="https://img.icons8.com/color/40/000000/linux.png"/>    <img src="https://img.icons8.com/ios-filled/40/000000/mysql-logo.png"/> 
 
 - Tensorflow 1 (Classification / Object Detection) - Intermediate
 - Tensorflow 2 (YOLO) - Beginner
