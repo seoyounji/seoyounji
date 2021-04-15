@@ -26,6 +26,8 @@
 - **SSAFY (Samsung Software Academy for Youth) 4th** (2020~2021)  
   Study  *Web, Algorithm* / Do  *3 different projects*
 
+- **Participate SIGGRAPH 2019** (2019)
+  
 - **학보사 @DGIST 동아리** (2015~2016)
 
 - **유기견 봉사 @DGIST 동아리** (2015~2016)
