@@ -21,7 +21,7 @@
 
 - Master's degree of **Computer Vision @ DGIST VC lab** (2018~2020)
 
-  
+  ​                                
 
 ### Experiences :mega:
 
@@ -35,7 +35,7 @@
   
 - **Participate SIGGRAPH 2019 / IPIU 2020, 2019, 2018 / ICCV 2019**
   
-  
+  ​                                         
   
 
 ### Projects :rainbow:
@@ -73,7 +73,7 @@
 
   - Java를 이용해 server와 client 구축 후 2명이 숫자 야구 게임을 즐길 수 있도록 구현.
 
-  
+  ​                                 
 
 
 ### Skills :star:
@@ -94,7 +94,7 @@
 
 - HTML, CSS, JS (Web) - Beginner  
 
-  
+  ​                            
 
 ### Fun fact :smirk:
 
@@ -104,7 +104,7 @@
 
 - 대학교 4년 동안 끊이지 않던 아르바이트 :running:
 
-  
+  ​                               
 
 ### 내 깃허브 및 언어 정보 👩‍💻 
 
