@@ -45,9 +45,9 @@
 - **시각 장애인을 위한 장보기 앱 See장 @SSAFY** (2021)
 
   - <mark style="background-color: #FFEBA0">SSAFY 공통 프로젝트 1등 / UCC 3등</mark>
-  - *Object Detection*을 이용해 찾고자 하는 상품명을 말하면 상품이 사용자 위치를 중심으로 어디에 위치해 있는지 알려줌.
+  - *Object Detection*을 이용해 찾고자 하는 상품명을 말하면 상품이 사용자 위치를 중심으로 어디에 위치해 있는지 음성 출력으로 알려줌.
   - *Image Classification*을 이용해 손에 들고 있는 상품을 판별해 음성 출력으로 알려줌.
-  - <mark style="background-color: #CCEEDD">맡은 역할 : *Object detection, Image Classification* 구현 전반 (데이터 구축 및 학습)</mark>
+  - <mark style="background-color: #CCEEDD">맡은 역할 : *Object detection, Image Classification* 구현 전반 (학습용 데이터 생성 및 학습)</mark>
 
 - **초실감 원격가상 인터랙션을 위한 사용자 복원 기술 개발 프로젝트 @DGIST VC lab** (2018~2020)
 
