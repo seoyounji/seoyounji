@@ -49,6 +49,12 @@
   - *Image Classification*을 이용해 손에 들고 있는 상품을 판별해 음성 출력으로 알려줌.
   - <mark style="background-color: #CCEEDD">맡은 역할 : *Object detection, Image Classification* 구현 전반 (학습용 데이터 생성 및 학습)</mark>
 
+- **부동산 매물 거래가 내역 확인을 위한 웹사이트 HappyHouse @SSAFY** (2020)
+
+  - <mark style="background-color: #FFEBA0">SSAFY 관통 프로젝트 2등</mark>
+  - 서울시 부동산 매물 거래 정보를 확인할 수 있고 지도를 통해 매물 정보 및 주변 상권과 편의시설 정보 또한 확인 가능.
+  - 
+
 - **초실감 원격가상 인터랙션을 위한 사용자 복원 기술 개발 프로젝트 @DGIST VC lab** (2018~2020)
 
   - <mark style="background-color: #FFEBA0">한국 연구재단 지원</mark>
