@@ -16,9 +16,38 @@
 ### 내 깃허브 및 언어 정보 👩‍💻 
 
 ![ Anurag의 github 통계 ](https://github-readme-stats.vercel.app/api?username=seoyounji&hide=prs&show_icons=true&hide_border=true&title_color=000)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seoyounji&layout=compact&hide_border=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seoyounji&hide=html,CSS&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
 ​                                 
+
+### Skills :star:
+
+<a href=""><img src="https://img.icons8.com/color/48/000000/tensorflow.png"/></a>    <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/>    <img src="https://img.icons8.com/color/48/000000/python.png"/>    <img src="https://img.icons8.com/color/48/000000/spring-logo.png"/>    <img src="https://img.icons8.com/fluent/48/000000/matlab.png"/>    <a href=""><img src="https://img.icons8.com/color/40/000000/git.png"/></a>   <img src="https://img.icons8.com/color/40/000000/linux.png"/>    <img src="https://img.icons8.com/ios-filled/40/000000/mysql-logo.png"/> 
+
+- Tensorflow 1 (Classification / Object Detection) - Intermediate
+
+- Tensorflow 2 (YOLO) - Beginner
+
+- C++ (OpenCV / OpenGL / 3d Reconstruction) - Intermediate
+
+- Python (Graph Import) - Intermediate
+
+- Java (Algorithm Problem Solving / SpringBoot) - Intermediate
+
+- Matlab (Data Preprocessing) - Intermediate
+
+- HTML, CSS, JS (Web) - Beginner  
+
+
+|                                                            | 이름             | 설명                                                         | 진행                                |
+| ---------------------------------------------------------- | ---------------- | ------------------------------------------------------------ | ----------------------------------- |
+| ![](https://img.icons8.com/plasticine/24/000000/react.png) | React & RN       | React를 사용하여 프로젝트에 능숙히 사용합니다.               | ![70%](https://progress-bar.dev/80) |
+| ![](https://img.icons8.com/bubbles/24/000000/react.png)    | Electron         | Electron을 사용하여 간단한 앱을 만들 수 있습니다.            | ![40%](https://progress-bar.dev/40) |
+| 💅                                                          | styled-component | Styled-component를 좋아하며 프로젝트에 적극 활용합니다.      | ![70%](https://progress-bar.dev/70) |
+| &nbsp;                                                     | MobX, Recoil     | Mobx, Recoil 등을 능숙하게 사용하여 프로젝트에 활용합니다.   | ![70%](https://progress-bar.dev/70) |
+| ![](https://img.icons8.com/color/24/000000/javascript.png) | Javascript       | 자바스크립트를 엄청 엄청 좋아합니다.                         | ![80%](https://progress-bar.dev/80) |
+| ![](https://img.icons8.com/color/24/000000/typescript.png) | Typescript       | 기존 자바스크립트 프로젝트, 새로운 프로젝트를 타입스크립트로 변경, 사용중입니다. 타입스크립트 좋아합니다. | ![70%](https://progress-bar.dev/70) |
+| ![](https://img.icons8.com/color/24/000000/git.png)        | Git&Github       | Git Branch를 이용하여 협업, 버전화를 을 진행하여 사용중입니다. | ![70%](https://progress-bar.dev/70) |
 
 ​                                                                                   
 
@@ -93,28 +122,8 @@
 
   - Java를 이용해 server와 client 구축 후 2명이 숫자 야구 게임을 즐길 수 있도록 구현.
 
-  ​                                 
 
-
-### Skills :star:
-
-<a href=""><img src="https://img.icons8.com/color/48/000000/tensorflow.png"/></a>    <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/>    <img src="https://img.icons8.com/color/48/000000/python.png"/>    <img src="https://img.icons8.com/color/48/000000/spring-logo.png"/>    <img src="https://img.icons8.com/fluent/48/000000/matlab.png"/>    <a href=""><img src="https://img.icons8.com/color/40/000000/git.png"/></a>   <img src="https://img.icons8.com/color/40/000000/linux.png"/>    <img src="https://img.icons8.com/ios-filled/40/000000/mysql-logo.png"/> 
-
-- Tensorflow 1 (Classification / Object Detection) - Intermediate
-
-- Tensorflow 2 (YOLO) - Beginner
-
-- C++ (OpenCV / OpenGL / 3d Reconstruction) - Intermediate
-
-- Python (Graph Import) - Intermediate
-
-- Java (Algorithm Problem Solving / SpringBoot) - Intermediate
-
-- Matlab (Data Preprocessing) - Intermediate
-
-- HTML, CSS, JS (Web) - Beginner  
-
-  ​                            
+​                            
 
 ### Fun fact :smirk:
 
