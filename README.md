@@ -16,27 +16,14 @@
 ### 내 깃허브 및 언어 정보 👩‍💻 
 
 ![ Anurag의 github 통계 ](https://github-readme-stats.vercel.app/api?username=seoyounji&hide=prs&show_icons=true&hide_border=true&title_color=000)
+
+​                              
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seoyounji&hide=html,CSS&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
 ​                                 
 
 ### Skills :star:
-
-<a href=""><img src="https://img.icons8.com/color/48/000000/tensorflow.png"/></a>    <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/>    <img src="https://img.icons8.com/color/48/000000/python.png"/>    <img src="https://img.icons8.com/color/48/000000/spring-logo.png"/>    <img src="https://img.icons8.com/fluent/48/000000/matlab.png"/>    <a href=""><img src="https://img.icons8.com/color/40/000000/git.png"/></a>   <img src="https://img.icons8.com/color/40/000000/linux.png"/>    <img src="https://img.icons8.com/ios-filled/40/000000/mysql-logo.png"/> 
-
-- Tensorflow 1 (Classification / Object Detection) - Intermediate
-
-- Tensorflow 2 (YOLO) - Beginner
-
-- C++ (OpenCV / OpenGL / 3d Reconstruction) - Intermediate
-
-- Python (Graph Import) - Intermediate
-
-- Java (Algorithm Problem Solving / SpringBoot) - Intermediate
-
-- Matlab (Data Preprocessing) - Intermediate
-
-- HTML, CSS, JS (Web) - Beginner  
 
 
 |                                                              | 이름         | 설명                                                         | 진행                                |
