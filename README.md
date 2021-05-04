@@ -1,7 +1,3 @@
-
-
-![header](https://capsule-render.vercel.app/api?type=wave&color=ffb6c1&height=200&section=header&fontSize=90)
-
 ### Hi there 👋
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fseoyounji&count_bg=%23FFBA37&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
@@ -21,7 +17,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seoyounji&hide=html,CSS&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
-​                                 
+​                                        
 
 ### Skills :star:
 
@@ -39,9 +35,7 @@
 | <img src="https://img.icons8.com/ios-filled/40/000000/mysql-logo.png"/> | MySQL        | 프로젝트 진행 시 사용해 DB를 구축함.                         | ![70%](https://progress-bar.dev/70) |
 | <img src="https://img.icons8.com/dusk/64/000000/docker.png"/> | Docker       | 도커 이미지를 만들어 배포한 경험 있음.                       | ![30%](https://progress-bar.dev/30) |
 
-​                                                                                   
-
-​                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       
+​                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     
 
 ### Education 🎓
 
