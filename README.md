@@ -5,9 +5,7 @@
 **멋진 머신러닝 개발자가 되고 싶은 주니어 개발자입니다!**
 
  🇰🇷 Republic of Korea  
-🎂 Feb. 1996                                         
-
-​                                                                                                                           
+🎂 Feb. 1996                                                                                                              
 
 ![ Anurag의 github 통계 ](https://github-readme-stats.vercel.app/api?username=seoyounji&hide=prs&show_icons=true&hide_border=true&title_color=000)
 
@@ -18,7 +16,7 @@
 ### Skills :star:
 
 
-|                                                              | 이름         | 설명                                                         | 진행                                |
+|                                                              | 이름         | 설명                                                         | 숙련도                              |
 | ------------------------------------------------------------ | ------------ | ------------------------------------------------------------ | ----------------------------------- |
 | <img src="https://img.icons8.com/color/48/000000/tensorflow.png"/> | Tensorflow 1 | Classification / Object Detection 을 사용해 웹앱 개발 경험 있음. | ![70%](https://progress-bar.dev/70) |
 |                                                              | Tensorflow 2 | 논문을 읽고 YOLO 를 직접 구현해 본 적 있음.                  | ![30%](https://progress-bar.dev/30) |
