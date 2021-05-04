@@ -43,11 +43,11 @@
 | ------------------------------------------------------------ | ------------ | ------------------------------------------------------------ | ----------------------------------- |
 | <img src="https://img.icons8.com/color/48/000000/tensorflow.png"/> | Tensorflow 1 | Classification / Object Detection 을 사용해 웹앱 개발 경험 있음. | ![70%](https://progress-bar.dev/70) |
 |                                                              | Tensorflow 2 | 논문을 읽고 YOLO 를 직접 구현해 본 적 있음.                  | ![30%](https://progress-bar.dev/30) |
-| <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/> | C++          | Styled-component를 좋아하며 프로젝트에 적극 활용합니다.      | ![70%](https://progress-bar.dev/70) |
+| <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/> | C++          | OpenCV / OpenGL 을 이용해 실시간 3d Reconstruction 을 구현해 논문 제출 경험 있음. | ![70%](https://progress-bar.dev/70) |
 | <img src="https://img.icons8.com/color/48/000000/python.png"/> | Python       | Mobx, Recoil 등을 능숙하게 사용하여 프로젝트에 활용합니다.   | ![70%](https://progress-bar.dev/70) |
 | <img src="https://img.icons8.com/color/48/000000/spring-logo.png"/> | Spring       | MVC & MVVM 패턴을 사용해 백엔드 구축 가능.                   | ![60%](https://progress-bar.dev/60) |
 | <img src="https://img.icons8.com/nolan/64/java-eclipse.png"/> | Java         | 기존 자바스크립트 프로젝트, 새로운 프로젝트를 타입스크립트로 변경, 사용중입니다. 타입스크립트 좋아합니다. | ![70%](https://progress-bar.dev/70) |
-| <img src="https://img.icons8.com/fluent/48/000000/matlab.png"/> | Matlab       |                                                              |                                     |
+| <img src="https://img.icons8.com/fluent/48/000000/matlab.png"/> | Matlab       | 머신러닝 학습 데이터 생성 시 Data Preprocessing 경험 있음.   |                                     |
 | ![](https://img.icons8.com/color/24/000000/git.png)          | Git&Github   | Git Branch를 이용하여 협업, 버전화를 을 진행하여 사용중입니다. | ![70%](https://progress-bar.dev/70) |
 | <img src="https://img.icons8.com/ios-filled/40/000000/mysql-logo.png"/> | MySQL        |                                                              |                                     |
 | <img src="https://img.icons8.com/dusk/64/000000/docker.png"/> | Docker       |                                                              |                                     |
