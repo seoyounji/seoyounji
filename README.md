@@ -44,13 +44,13 @@
 | <img src="https://img.icons8.com/color/48/000000/tensorflow.png"/> | Tensorflow 1 | Classification / Object Detection 을 사용해 웹앱 개발 경험 있음. | ![70%](https://progress-bar.dev/70) |
 |                                                              | Tensorflow 2 | 논문을 읽고 YOLO 를 직접 구현해 본 적 있음.                  | ![30%](https://progress-bar.dev/30) |
 | <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/> | C++          | OpenCV / OpenGL 을 이용해 실시간 3d Reconstruction 을 구현해 논문 제출 경험 있음. | ![70%](https://progress-bar.dev/70) |
-| <img src="https://img.icons8.com/color/48/000000/python.png"/> | Python       | 딥러닝 모델을 사용 가능.                                     | ![70%](https://progress-bar.dev/70) |
+| <img src="https://img.icons8.com/color/48/000000/python.png"/> | Python       | 딥러닝 모델을 읽고 사용 가능.                                | ![70%](https://progress-bar.dev/70) |
 | <img src="https://img.icons8.com/color/48/000000/spring-logo.png"/> | Spring       | MVC & MVVM 패턴을 사용해 백엔드 구축 가능.                   | ![60%](https://progress-bar.dev/60) |
 | <img src="https://img.icons8.com/nolan/64/java-eclipse.png"/> | Java         | 알고리즘 문제를 풀 때 주로 사용.                             | ![80%](https://progress-bar.dev/80) |
 | <img src="https://img.icons8.com/fluent/48/000000/matlab.png"/> | Matlab       | 머신러닝 학습 데이터 생성 시 Data Preprocessing 경험 있음.   | ![40%](https://progress-bar.dev/40) |
 | ![](https://img.icons8.com/color/24/000000/git.png)          | Git&Github   | Git Branch를 사용해 협업 프로젝트 진행 경험 있음.            | ![70%](https://progress-bar.dev/70) |
-| <img src="https://img.icons8.com/ios-filled/40/000000/mysql-logo.png"/> | MySQL        |                                                              |                                     |
-| <img src="https://img.icons8.com/dusk/64/000000/docker.png"/> | Docker       | 도커 이미지를 만들어                                         | ![30%](https://progress-bar.dev/30) |
+| <img src="https://img.icons8.com/ios-filled/40/000000/mysql-logo.png"/> | MySQL        | 프로젝트 진행 시 사용해 DB를 구축함.                         | ![70%](https://progress-bar.dev/70) |
+| <img src="https://img.icons8.com/dusk/64/000000/docker.png"/> | Docker       | 도커 이미지를 만들어 배포한 경험 있음.                       | ![30%](https://progress-bar.dev/30) |
 
 ​                                                                                   
 
